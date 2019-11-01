@@ -4,7 +4,7 @@
   "description": "Search",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/**/*spec.js"
+    "test": "jest -- test/**/*spec.js"
   },
   "repository": {
     "type": "git",
@@ -13,6 +13,6 @@
   "author": "Sherry",
   "license": "ISC",
   "dependencies": {
-    "mocha": "^6.2.2"
+    "jest": "^24.9.0"
   }
 }
