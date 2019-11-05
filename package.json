@@ -4,7 +4,7 @@
   "description": "Search",
   "main": "index.js",
   "scripts": {
-    "test": "jest -- test/**/*spec.js"
+    "test": "jest -- __tests__/*spec.js"
   },
   "repository": {
     "type": "git",
